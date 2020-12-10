@@ -1,0 +1,70 @@
+body{
+  background-image: url("background.jpg");
+  background-size:cover;
+}
+.contenitore{
+  width: 800px;
+  margin:auto;
+  background-color: rgba(0,0,0,0.5);
+  padding: 30px;
+  border-radius: 10px;
+}
+.logo{
+  width: 200px;
+  display: inline-block;
+}
+.box{
+  text-align: center;
+  padding-top: 100px;
+  color: #00FF00;
+}
+.box-botton{
+  background-color: #00FF00;
+  text-align: center;
+  margin-right: 100px;
+  margin-left: 100px;
+  padding: 5px;
+}
+.bottone{
+  width: 100px;
+  font-size: 9px;
+  font-weight: bold;
+  text-align: center;
+}
+span{
+  color: #FFFFFF;
+  display:inline-block;
+  font-size: 20px;
+}
+.quadrato{
+  margin-left: 100px;
+  width:10px;
+  height:10px;
+  background: white;
+}
+.freccia{
+  color:white;
+  margin-left: 100px;
+  font-size: 12px;
+}
+.carica{
+  color:white;
+  margin-left: 100px;
+  font-size: 10px;
+}
+.batteria{
+  width: 300px;
+  height: 20px;
+  background: orange;
+  margin-left: 100px;
+  border-radius:5px;
+  margin-top: 2px;
+}
+div.verde{
+  background: green;
+  width: 400px;
+}
+div.rossa{
+  background: red;
+  width:130px;
+}
